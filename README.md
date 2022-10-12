@@ -1,5 +1,5 @@
 # React movie searcher
 
 ### Using
-
-Open Movie Database API - https://www.omdbapi.com/
+react-axios <br>
+Open Movie Database API - https://www.omdbapi.com/<br>
