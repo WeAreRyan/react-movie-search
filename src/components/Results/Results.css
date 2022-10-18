@@ -1,0 +1,8 @@
+.results {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -15px;
+    margin: auto;
+    align-items: center;
+}
+
